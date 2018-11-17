@@ -1,0 +1,19 @@
+body, html {
+   border: 0;
+   margin: 0;
+   padding: 0;
+}
+#map {
+   height: 100vh;
+   width: 100vw;
+}
+
+#sidebar {
+   left: 0;
+   height: 100%;
+   width: 300px;
+   z-index: 50000;
+   position: absolute;
+   background: white;
+   padding: 15px;
+}
